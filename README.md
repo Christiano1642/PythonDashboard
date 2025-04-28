@@ -1,10 +1,5 @@
 # Grazioso Salvare – Rescue-Dog Dashboard  
 
-**Author:** YOUR NAME      
-**Course:** CS-340         
-**Date:** MONTH DAY, YEAR  
-
----
 
 ## 1. Project Overview  
 
